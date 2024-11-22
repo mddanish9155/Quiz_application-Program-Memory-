@@ -23,7 +23,7 @@ At the end of the quiz, a summary of the score and review of correct answers is 
 <h2>Folder Structure 📂</h2>
 
 quiz-application/<br>
-├── quiz.py       # The main Python script containing all code<br>
+├── quiz_application.py       # The main Python script containing all code<br>
 ├── README.md     # Documentation of the project<br>
 
 <h2>Getting Started 🚀</h2>
