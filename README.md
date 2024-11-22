@@ -22,11 +22,11 @@ At the end of the quiz, a summary of the score and review of correct answers is 
 
 <h2>Folder Structure 📂</h2>
 
-quiz-application/
-├── quiz.py       # The main Python script containing all code
-├── README.md     # Documentation of the project
+quiz-application/<br>
+├── quiz.py       # The main Python script containing all code<br>
+├── README.md     # Documentation of the project<br>
 
 <h2>Getting Started 🚀</h2>
 
-<b>Prerequisites</b>
+<b>Prerequisites</b><br>
 #Python 3.x must be installed on your system.
