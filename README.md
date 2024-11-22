@@ -15,10 +15,10 @@ Python Programming<br>
 
 <h2>How It Works 🛠️</h2>
 
-Users choose a topic for the quiz.
-Questions are displayed one by one, with four answer options.
-Users input their answers, and the application checks correctness.
-At the end of the quiz, a summary of the score and review of correct answers is presented.
+Users choose a topic for the quiz.<br>
+Questions are displayed one by one, with four answer options.<br>
+Users input their answers, and the application checks correctness.<br>
+At the end of the quiz, a summary of the score and review of correct answers is presented.<br>
 
 <h2>Folder Structure 📂</h2>
 
